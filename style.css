@@ -6,7 +6,7 @@ h1{
     font-size: 40px;
 }
 
-.name-highlight{
+.orenge-highlight{
     color: orangered;
     padding-left: 25px;
 }
@@ -63,3 +63,38 @@ font-weight: 600;
     padding-left: 2px;
     
 }
+.fun{
+    padding-left: 10px;
+    padding-top:100px;
+}
+.single{
+    box-shadow: 10px 10px 40px rgb(103, 74, 151);
+    border-radius: 15px;
+    height: 62%;
+    padding-left:20px ;
+background-color: white;}
+
+
+
+
+.rd-area{
+    background-image: url(images/easy.png);
+    background-repeat: no-repeat;
+   
+    
+}
+#full-stack{
+border-left: 7px solid;
+border-image: linear-gradient(180deg, rgb(207, 10, 109),rgb(38, 0, 255));
+border-image-slice: 1;
+}
+#baby-stack{
+    border-left: 7px solid;
+border-image: linear-gradient(180deg, rgb(0, 250, 21),rgb(38, 0, 255));
+border-image-slice: 1;
+}
+footer p{
+
+    text-align: center;
+}
+
